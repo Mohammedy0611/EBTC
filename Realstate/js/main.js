@@ -62,7 +62,7 @@ jQuery(document).ready(function ($) {
 //=========================================
 
 (function () {
-  emailjs.init("service_73sxylpOUR_USER_ID"); // Replace with your EmailJS user ID
+  emailjs.init("service_73sxylpOUR"); // Replace with your EmailJS user ID
 })();
 
 document
