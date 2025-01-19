@@ -62,7 +62,7 @@ jQuery(document).ready(function ($) {
 //=========================================
 
 (function () {
-  emailjs.init("service_73sxylpOUR"); // Replace with your EmailJS user ID
+  emailjs.init("info@myebtc.org"); // Replace with your EmailJS user ID
 })();
 
 document
